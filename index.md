@@ -6,6 +6,8 @@ layout: index
 
 The goal of this class is two-fold. First, to introduce you to core database concepts (e.g., data modeling, logical design, SQL) so that you too can build a billion dollar application. Second, to teach enough about database engine internals (e.g., physical database design, query optimization, transaction processing) so you have a good sense of why queries may be running slowly/incorrectly.  We will also discuss their relevance to systems used in industry.
 
+The Data Management Seminar invites interesting database researchers and practitioners to speak.  Students are invited to join in person or on zoom (if available).   We will announce these periodically throughout the semester.
+
 <!--**Advanced Assignments**  There will several [optional extra-credit assignments](https://github.com/w4111/advanced) that will dive deeper into concepts introduced in class.   Some of them will involve extending a simple Python-based database engine with additional functionality!  They are labeled `AA#` in the schedule.  There is no obligation to do these, but they are available if you want to do then in addition to, or in lieu of the normal assignments.-->
 
 <!--
@@ -32,7 +34,7 @@ Developed by others:
 
 * [Sign up for Project 1 Part 1 staff meetings!](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpOU05mUUpZYXk2fGRlZmF1bHR8YmE0YmE0M2MzNzkyYWZjOTcxYjRkMTBmNDNmNjA1NDc)  One meeting per team.
 * Updated lecture 2 slides to clarify constraints over N-way relationships.
-* [HW0](https://github.com/w4111/hw0) released.  
+* [HW0](https://github.com/w4111/hw0) released.  No Late Days!  Failure to submit on time is a -5% penalty on your final grade.
 
 #### Schedule
 

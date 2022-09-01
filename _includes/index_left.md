@@ -1,14 +1,14 @@
 #### Information 
 
 * Tues/Thurs 10-11:30   
-  451 Computer Science
+  451 CSB   
   3 units
 * [Syllabus](./syllabus)
 * [Ed Discussion](https://edstem.org/us/courses/28081/discussion/)
 * [Provide Feedback](https://goo.gl/forms/QIfWsPnwu3YHtamk1)
 * [Course Github](http://github.com/w4111)
 
-#### Staff ([OH Links](https://edstem.org/us/courses/17037/discussion/1029187)/[OH Calendar](https://calendar.google.com/calendar/embed?src=v79hsp9qikue2f3s4bkdemsu4c%40group.calendar.google.com&ctz=America%2FNew_York))
+#### Staff 
 
 
 
@@ -24,6 +24,11 @@
   <small>tba</small>
 * [](#)   
   <small>tba</small>
+
+Office Hours 
+
+* [OH Links](https://edstem.org/us/courses/17037/discussion/1029187)
+* [OH Calendar](https://calendar.google.com/calendar/embed?src=v79hsp9qikue2f3s4bkdemsu4c%40group.calendar.google.com&ctz=America%2FNew_York)
 
 #### Prereqs
 

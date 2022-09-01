@@ -4,10 +4,6 @@ layout: page
 
 ## W4111 Syllabus 
 
-Edits
-
-* 3/2: clarified when grace days and late days are accepted
-
 
 The goal of this class is two-fold.  First, to introduce
 you to core database concepts (e.g., data modeling, logical
@@ -151,6 +147,7 @@ Extra credit is a way for students to illustrate their understanding of the cour
 
 1. We first grade cut-offs using scores that **do not** include any extra credit
 2. Then we add extra credit points.  
+3. This includes all extra credit -- standalone, on assignments/projects, and on exams.
 
 Due to the additional work that the staff must take to assess and manage extra credit opportunities, we have **strict deadlines** for extra credit opportunities (aka no late days).
 
@@ -170,10 +167,11 @@ Unless otherwise specified, you are allowed 5 penalty free late days to use thro
 
 **In some cases, we will specify that an assignment will not accept late submissions beyond a certain day**.
 This is so that we have time to release solutions (say, before an exam).
-Unless specified otherwise, for HWs this hard deadline is five days (120 hours) after the initial deadline).
+
 
 * HW0 does not accept late submissions.
 * Homeworks do not accept ANY late submissions once the solution is released (thus grace days do not apply once the solution is released).
+* Unless specified otherwise, the hard deadline for using grace days is five days (120 hours) after the initial deadline.
 
 
 #### Grace Days for Projects 
