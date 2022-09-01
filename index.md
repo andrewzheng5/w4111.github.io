@@ -30,28 +30,6 @@ Developed by others:
 
 #### Announcements
 
-* 4/24
-  * Added [extra credit assignment](https://github.com/w4111/w4111.github.io/wiki)
-  * added extra credit assignment on Gradescope.  Named "Extra Credit Drawing"
-* 4/22: links to practice problems for...
-  * [Join ordering and access methods](./join.html)
-  * [FDs](./fd.html)
-  * [Schedules](./concurrency.html)
-* 4/2
-  * Updated lecture 7 to clarify conditions when checking BCNF, as well as additional examples
-    of BCNF decomposition.
-* 3/4
-  * Updated lecture 5 with group-by examples and midterm logistics.
-* 3/2
-  * HW2 won't accept late submission after 3/5 10:00 AM EST because we will release solution.  
-
-* 2/28
-  * Updated lecture 4 to include full example of "Students that reserved all books"
-  * Updated lecture 5 with full example of INTERSECT
-* 2/25
-  * Updated lecture 3 slide 82 so it say "Alternatively combine Courses and Instructs" rather than "Courses and Users"
-  * [Practice exams](https://github.com/w4111/w4111.github.io/tree/main/files/reading)
-  * [Link to class SQL demo notebook](https://github.com/w4111/w4111.github.io/tree/main/src/notebooks)
 * [Sign up for Project 1 Part 1 staff meetings!](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpOU05mUUpZYXk2fGRlZmF1bHR8YmE0YmE0M2MzNzkyYWZjOTcxYjRkMTBmNDNmNjA1NDc)  One meeting per team.
 * Updated lecture 2 slides to clarify constraints over N-way relationships.
 * [HW0](https://github.com/w4111/hw0) released.  
