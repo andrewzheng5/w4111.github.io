@@ -45,5 +45,5 @@ Office Hours
   * [HW4](https://github.com/w4111/hw4-f22) <small>3.75%</small>
 * [Project 1](https://github.com/w4111/project1-f22) <small>15%</small>
 * [Project 2](https://github.com/w4111/project2-f22) <small>5%</small>
-* Midterm 1 <small>25%</small>
-* Midterm 2 <small>40%</small>
+* Exam 1 <small>25%</small>
+* Exam 2 <small>40%</small>
