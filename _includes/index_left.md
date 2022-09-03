@@ -18,7 +18,7 @@
   <small>tba</small>
 * [Andrew Zheng](#)   
   <small>tba</small>
-* [](#)   
+* [Jennifer Wang](#)   
   <small>tba</small>
 * [](#)   
   <small>tba</small>
