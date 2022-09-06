@@ -32,8 +32,10 @@ Developed by others:
 
 #### Announcements
 
+<!--
 * [Sign up for Project 1 Part 1 staff meetings!](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpOU05mUUpZYXk2fGRlZmF1bHR8YmE0YmE0M2MzNzkyYWZjOTcxYjRkMTBmNDNmNjA1NDc)  One meeting per team.
 * Updated lecture 2 slides to clarify constraints over N-way relationships.
+-->
 * [HW0](https://github.com/w4111/hw0) released.  No Late Days!  Failure to submit on time is a -5% penalty on your final grade.
 
 #### Schedule
@@ -41,7 +43,7 @@ Developed by others:
 <table class="table table-striped schedule">
   <thead>
   <tr>
-    <!--<th class="idx"></th>-->
+    <th class="idx"></th>
     <th class="date" style="width: 5em; max-width: 5em;"> <p> <span>Date </span> </p> </th>
     <th style="min-width: 20%;"> <p> <span>Topic </span> </p> </th>
     <!--<th style="width: 15%"> <p> <span>Readings </span> </p> </th>-->
@@ -54,7 +56,7 @@ Developed by others:
 {% for r in site.data.schedule %}
   {% assign idx = idx | plus: 1  %}
   <tr style="background-color: {{r.color}}; ">
-    <!--<td class="idx">L{{idx}}</td>-->
+    <td class="idx">L{{idx}}</td>
     <td class="date">{{r.date}}</td>
     <td class="slug">
       {% if r.lshow == "1" %} <a href="{{r.link}}"> {% endif %}

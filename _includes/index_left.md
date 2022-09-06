@@ -16,13 +16,13 @@
   <small>Thurs 12-1PM</small>
 * [Zachary Huang](http://www.columbia.edu/~zh2408/)   
   <small>tba</small>
-* [Andrew Zheng](#)   
+* [Lia Chen](#)   
+  <small>tba</small>
+* [Jessica Shi](#)   
   <small>tba</small>
 * [Jennifer Wang](#)   
   <small>tba</small>
-* [](#)   
-  <small>tba</small>
-* [](#)   
+* [Andrew Zheng](#)   
   <small>tba</small>
 
 Office Hours 
