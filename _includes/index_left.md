@@ -16,17 +16,17 @@
 * [Eugene Wu](http://www.eugenewu.net) <small>Instructor</small>   
   <small>Thurs 12-1PM</small>
 * [Zachary Huang](http://www.columbia.edu/~zh2408/)   
-  <small>tba</small>
+  <small>Wed 1PM-3PM</small>
 * [Lia Chen](#)   
-  <small>tba</small>
+  <small>Thurs 4PM-6PM</small>
 * [Lucas Kalejaiye](#)   
-  <small>tba</small>
+  <small>Mon 3PM-5PM</small>
 * [Jennifer Wang](#)   
-  <small>tba</small>
+  <small>Wed 7PM-9PM</small>
 * [Andrew Zheng](#)   
-  <small>tba</small>
+  <small>Fri 2PM-4PM</small>
 * [Weisheng Wang](#)   
-  <small>tba</small>
+  <small>Tues 11AM-1PM</small>
 
 Office Hours 
 
