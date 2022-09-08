@@ -5,7 +5,7 @@
   3 units
 * [Syllabus](./syllabus)
 * [Ed Discussion](https://edstem.org/us/courses/28081/discussion/)
-* [Provide Feedback](https://goo.gl/forms/QIfWsPnwu3YHtamk1)
+* [Provide Feedback](https://forms.gle/eTLxpLM5DxK8KpNKA)
 * [Course Github](http://github.com/w4111)
 
 #### Staff 
@@ -24,10 +24,12 @@
   <small>tba</small>
 * [Andrew Zheng](#)   
   <small>tba</small>
+* [Weisheng Wang](#)   
+  <small>tba</small>
 
 Office Hours 
 
-* [OH Links](https://edstem.org/us/courses/17037/discussion/1029187)
+* [OH Links](#)
 * [OH Calendar](https://calendar.google.com/calendar/embed?src=v79hsp9qikue2f3s4bkdemsu4c%40group.calendar.google.com&ctz=America%2FNew_York)
 
 #### Prereqs
