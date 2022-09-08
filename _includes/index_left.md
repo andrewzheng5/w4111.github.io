@@ -7,6 +7,7 @@
 * [Ed Discussion](https://edstem.org/us/courses/28081/discussion/)
 * [Provide Feedback](https://forms.gle/eTLxpLM5DxK8KpNKA)
 * [Course Github](http://github.com/w4111)
+* [Course Gradescope](https://www.gradescope.com/courses/436228)
 
 #### Staff 
 
