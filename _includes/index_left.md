@@ -18,7 +18,7 @@
   <small>tba</small>
 * [Lia Chen](#)   
   <small>tba</small>
-* [Jessica Shi](#)   
+* [Lucas Kalejaiye](#)   
   <small>tba</small>
 * [Jennifer Wang](#)   
   <small>tba</small>
