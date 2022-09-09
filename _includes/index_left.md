@@ -28,9 +28,8 @@
 * [Weisheng Wang](#)   
   <small>Tues 11AM-1PM</small>
 
-Office Hours 
+Office Hours  and Links
 
-* [OH Links](#)
 * [OH Calendar](https://calendar.google.com/calendar/embed?src=v79hsp9qikue2f3s4bkdemsu4c%40group.calendar.google.com&ctz=America%2FNew_York)
 
 #### Prereqs
