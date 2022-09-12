@@ -8,6 +8,9 @@
 * [Provide Feedback](https://forms.gle/eTLxpLM5DxK8KpNKA)
 * [Course Github](http://github.com/w4111)
 * [Course Gradescope](https://www.gradescope.com/courses/436228)
+* [Course Videos](https://cvn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=61080197-48b9-4963-a2cf-aefc008a344d)
+
+
 
 #### Staff 
 
