@@ -36,6 +36,7 @@ Developed by others:
 * [Sign up for Project 1 Part 1 staff meetings!](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpOU05mUUpZYXk2fGRlZmF1bHR8YmE0YmE0M2MzNzkyYWZjOTcxYjRkMTBmNDNmNjA1NDc)  One meeting per team.
 * Updated lecture 2 slides to clarify constraints over N-way relationships.
 -->
+* 9/13: Added [Link to Project 1 Part 1 appointment slots](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpOU05mUUpZYXk2fGRlZmF1bHR8YmE0YmE0M2MzNzkyYWZjOTcxYjRkMTBmNDNmNjA1NDc)
 * 9/8: Added [course gradescope link to webpage](https://www.gradescope.com/courses/436228/)
 * 9/8:  HW1 part 1 and Project 1 Part 1 are released
 * 9/6: [HW0](https://github.com/w4111/hw0) released.  No Late Days!  Failure to submit on time is a -5% penalty on your final grade.

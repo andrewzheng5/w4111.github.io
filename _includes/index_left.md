@@ -34,6 +34,7 @@
 Office Hours  and Links
 
 * [OH Calendar](https://calendar.google.com/calendar/embed?src=v79hsp9qikue2f3s4bkdemsu4c%40group.calendar.google.com&ctz=America%2FNew_York)
+* [Proj1 Part 1 Appointments](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpOU05mUUpZYXk2fGRlZmF1bHR8YmE0YmE0M2MzNzkyYWZjOTcxYjRkMTBmNDNmNjA1NDc)
 
 #### Prereqs
 
