@@ -7,9 +7,9 @@
 
 The following were used in class
 
-* [ertosql_private.ipynb](./ertosql_private.ipynb) contains examples of ER to SQL translations.  [Open in colab](https://colab.research.google.com/github/w4111/w4111.github.io/blob/master/src/notebooks/ertosql_private.ipynb)
-* [sql_private.ipynb](./sql_private.ipynb) contains examples of basic SQL features.  [Open in colab](https://colab.research.google.com/github/w4111/w4111.github.io/blob/master/src/notebooks/sql_private.ipynb)
-* [sql-advanced_private.ipynb](./sql-advanced_private.ipynb) contains examples of advanced SQL features (UDFs, Triggers, WITH).  [Open in colab](https://colab.research.google.com/github/w4111/w4111.github.io/blob/master/src/notebooks/sql-advanced_private.ipynb)
+* [ertosql_private.ipynb](./ertosql_private.ipynb) contains examples of ER to SQL translations.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w4111/w4111.github.io/blob/master/src/notebooks/ertosql_private.ipynb]
+* [sql_private.ipynb](./sql_private.ipynb) contains examples of basic SQL features. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w4111/w4111.github.io/blob/master/src/notebooks/sql_private.ipynb]
+* [sql-advanced_private.ipynb](./sql-advanced_private.ipynb) contains examples of advanced SQL features (UDFs, Triggers, WITH). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w4111/w4111.github.io/blob/master/src/notebooks/sql-advanced_private.ipynb] 
 
 
 
