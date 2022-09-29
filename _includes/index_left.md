@@ -29,7 +29,7 @@
 * [Andrew Zheng](#)   
   <small>Fri 2PM-4PM</small>
 * [Weisheng Wang](#)   
-  <small>Tues 11AM-1PM</small>
+  <small>Weds 12:30PM-2:30PM</small>
 
 Office Hours  and Links
 
