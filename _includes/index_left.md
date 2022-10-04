@@ -53,3 +53,5 @@ Office Hours  and Links
 * [Project 2](https://github.com/w4111/project2-f22) <small>5%</small>
 * Exam 1 <small>25%</small>
 * Exam 2 <small>40%</small>
+* Extra Credits
+  * [Learn a DB Technology](https://github.com/w4111/w4111.github.io/wiki)
