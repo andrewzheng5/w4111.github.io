@@ -36,6 +36,7 @@ Developed by others:
 * [Sign up for Project 1 Part 1 staff meetings!](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpOU05mUUpZYXk2fGRlZmF1bHR8YmE0YmE0M2MzNzkyYWZjOTcxYjRkMTBmNDNmNjA1NDc)  One meeting per team.
 * Updated lecture 2 slides to clarify constraints over N-way relationships.
 -->
+* 10/6: Updated the slides for the SQL lectures
 * 9/29: Looking for past exams?  [Look no further.  Click here!](https://github.com/w4111/w4111.github.io/tree/main/files/reading)
 * 9/29: Link to [SQLTutor](https://cudbg.github.io/sqltutor/)
 * 9/27: Notebook examples used in class [can be found here](https://github.com/w4111/w4111.github.io/tree/main/src/notebooks)
