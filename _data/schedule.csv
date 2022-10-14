@@ -10,7 +10,7 @@ white,6-Sep,Intro and Overview,,1,https://github.com/w4111/w4111.github.io/blob/
 #f2f9ed,4-Oct,"SQL: Group by, Order by, UDFs",,,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec5.pdf,Ch 3,,,,,
 #f2f9ed,6-Oct,SQL: Advanced,,,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec5.pdf,"Ch 4.1-4.4, 5.2-5.4",,,,HW2 (No grace days/late submissions accepted at all beyond 10/7 11:59PM EST),
 white,11-Oct,Review,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec5-review.pdf,,,,,,
-white,13-Oct,Midterm 1,Gradescope,,,,,HW3<br/>Project 1 Part 3,,,
+white,13-Oct,Midterm 1,Gradescope,,,,,"<a href=""https://github.com/w4111/hw3-f22"">HW3</a><br/>Project 1 Part 3,,,
 #edf3f9,18-Oct,APIs,,,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec6.pdf,"Ch 5.1, 5.2",,,,Project 1 Part 2,
 #edf3f9,20-Oct,Security and Privacy,,,,,,,,,
 #edf3f9,25-Oct,Normalization,,,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec7.pdf,Ch 7.1-7.5,,,,,
